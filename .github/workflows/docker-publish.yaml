@@ -11,7 +11,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: tfon23/docker-libreoffice
+  IMAGE_NAME: tfontan3/docker-libreoffice
 
 jobs:
   build:
